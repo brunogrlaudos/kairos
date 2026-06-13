@@ -9,12 +9,12 @@ const KAIROS_CONFIG = {
   // ── Firebase ─────────────────────────────────────────────────
   // Obtido em: Firebase Console → Configurações do projeto → Web
   firebase: {
-    apiKey:            "COLE_AQUI",
-    authDomain:        "COLE_AQUI",
-    projectId:         "COLE_AQUI",
-    storageBucket:     "COLE_AQUI",
-    messagingSenderId: "COLE_AQUI",
-    appId:             "COLE_AQUI",
+    apiKey:            "AIzaSyCB1uVgvTbl2YVnp-hJ7bIwccSe7wYL25A",
+    authDomain:        "kairos-catequese.firebaseapp.com",
+    projectId:         "kairos-catequese",
+    storageBucket:     "kairos-catequese.firebasestorage.app",
+    messagingSenderId: "615000175412",
+    appId:             "1:615000175412:web:7bef6b95f13630c9e2eb61",
   },
 
   // ── Google Drive ─────────────────────────────────────────────
